@@ -1,0 +1,19 @@
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+  "GDHBHJMUPKRXWJTLVL3DM3DUL2JN5HC2J35SJKDBOOYR5OF2LWBENOSW",
+  "GB2Y2X5TE7NGNZJ6333IFD2WJUO5Q6AWENR6DDWQTHO27GG7XWL6ITSN"
+]
+
+SIGNING_KEY="GDHBHJMUPKRXWJTLVL3DM3DUL2JN5HC2J35SJKDBOOYR5OF2LWBENOSW"
+
+
+[[CURRENCIES]]
+code="RUGBUNNY"
+issuer="GDHBHJMUPKRXWJTLVL3DM3DUL2JN5HC2J35SJKDBOOYR5OF2LWBENOSW"
+home_domain="https://rugbunny.github.io"
+status="live"
+name="RUGBUNNY"
+desc="Utility token powering the NeonX ecosystem on the Stellar network."
+conditions="Used for transactions and platform utilities."
+image="https://rugbunny.github.io/logo.png"
