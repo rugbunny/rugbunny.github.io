@@ -11,7 +11,7 @@ SIGNING_KEY="GDHBHJMUPKRXWJTLVL3DM3DUL2JN5HC2J35SJKDBOOYR5OF2LWBENOSW"
 [[CURRENCIES]]
 code="RUGBUNNY"
 issuer="GDHBHJMUPKRXWJTLVL3DM3DUL2JN5HC2J35SJKDBOOYR5OF2LWBENOSW"
-home_domain="https://rugbunny.github.io"
+home_domain="rugbunny.github.io"
 status="live"
 name="RUGBUNNY"
 desc="Utility meme token ecosystem on the Stellar network."
