@@ -1,27 +1,19 @@
-VERSION="2.0.0"
-
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDHBHJMUPKRXWJTLVL3DM3DUL2JN5HC2J35SJKDBOOYR5OF2LWBENOSW",
-"GB2Y2X5TE7NGNZJ6333IFD2WJUO5Q6AWENR6DDWQTHO27GG7XWL6ITSN"
+"GDHBHJMUPKRXWJTLVL3DM3DUL2JN5HC2J35SJKDBOOYR5OF2LWBENOSW"
 ]
 
 SIGNING_KEY="GDHBHJMUPKRXWJTLVL3DM3DUL2JN5HC2J35SJKDBOOYR5OF2LWBENOSW"
 
-[DOCUMENTATION]
-ORG_NAME="Rugbunny"
-ORG_URL="https://rugbunny.github.io"
-ORG_DESCRIPTION="Utility meme token ecosystem on the Stellar network."
-ORG_LOGO="https://rugbunny.github.io/logo.png"
-
 [[CURRENCIES]]
 code="RUGBUNNY"
-issuer="GDHBHJMUPKRXWJTLVL3DM3DUL2JN5HC2J35SJKDBOOYR5OF2LWBENOSW"
+issuer="GDTMEO5J5HSK35KHD7CJBUB576EFVSFXMXHACV7PORO36Z7AIHHKCJH2"
 home_domain="rugbunny.github.io"
 status="live"
+image="https://rugbunny.github.io/logo.png"
 display_decimals=7
-name="RUGBUNNY"
-desc="Utility meme token ecosystem on the Stellar network."
+
+
 conditions="Used for transactions and platform utilities."
 image="https://rugbunny.github.io/logo.png"
